@@ -2,6 +2,9 @@
 
 Projeto de sistema de controle de estoque de produtos e insumos, além de controle de vendas com gráficos e análise de dados.
 
+<img width="1914" height="955" alt="cap1" src="https://github.com/user-attachments/assets/20fc125b-3054-4626-ab98-967c40811005" />
+
+
 ## Detalhes do projeto
 ### Problema
 Operações que dependem de controles manuais enfrentam falta de rastreabilidade nas movimentações de estoque, dificuldade no cálculo de custo e markup de produtos compostos por múltiplos insumos e lentidão na comunicação de demandas operacionais.
