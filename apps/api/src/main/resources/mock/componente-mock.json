@@ -1,0 +1,37 @@
+[
+  {
+  "produtoId": 1,
+  "insumoId": 1,
+  "quantidade": 1
+  },
+  {
+    "produtoId": 1,
+    "insumoId": 2,
+    "quantidade": 2
+  },
+  {
+    "produtoId": 2,
+    "insumoId": 6,
+    "quantidade": 1
+  },
+  {
+    "produtoId": 2,
+    "insumoId": 2,
+    "quantidade": 1
+  },
+  {
+    "produtoId": 2,
+    "insumoId": 1,
+    "quantidade": 3
+  },
+  {
+    "produtoId": 3,
+    "insumoId": 3,
+    "quantidade": 4
+  },
+  {
+    "produtoId": 3,
+    "insumoId": 4,
+    "quantidade": 1
+  }
+]

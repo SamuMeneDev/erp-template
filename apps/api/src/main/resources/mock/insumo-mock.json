@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "Componente Base Alpha",
+    "preco": 15.5,
+    "quantAtual": 50,
+    "categoriaId": 1
+  },
+  {
+    "nome": "Caixa Padrão Média",
+    "preco": 4.2,
+    "quantAtual": 120,
+    "categoriaId": 2
+  },
+  {
+    "nome": "Suporte Articulado",
+    "preco": 8.9,
+    "quantAtual": 35,
+    "categoriaId": 3
+  },
+  {
+    "nome": "Módulo de Conexão",
+    "preco": 12.0,
+    "quantAtual": 40,
+    "categoriaId": 4
+  },
+  {
+    "nome": "Revestimento Protetor",
+    "preco": 3.5,
+    "quantAtual": 85,
+    "categoriaId": 5
+  },
+  {
+    "nome": "Etiqueta de Identificação",
+    "preco": 0.45,
+    "quantAtual": 500,
+    "categoriaId": 6
+  }
+]

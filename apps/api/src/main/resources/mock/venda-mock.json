@@ -1,0 +1,24 @@
+[
+  {
+    "precificacaoId": 1,
+    "selecoesVenda": [
+      {
+        "produtoId": 3,
+        "quantidade": 2
+      },
+      {
+        "produtoId": 1,
+        "quantidade": 1
+      }
+    ]
+  },
+  {
+    "precificacaoId": 2,
+    "selecoesVenda": [
+      {
+        "produtoId": 3,
+        "quantidade": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+{
+    "name": "@erp-template/util",
+    "description": "Utilitários de sistema para os sistemas desse projeto.",
+    "authors": "SamuMeneDev",
+    "version": "1.3.1",
+    "main": "index.ts",
+    "private": "true"
+}

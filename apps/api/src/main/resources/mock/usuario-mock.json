@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Admin",
+    "email": "admin@email.com",
+    "senha": "123456",
+    "role": "ADMIN"
+  },
+  {
+    "nome": "Operador A",
+    "email": "operadora@email.com",
+    "senha": "123456",
+    "role": "USUARIO"
+  },
+  {
+    "nome": "Operador B",
+    "email": "operadorb@email.com",
+    "senha": "123456",
+    "role": "USUARIO"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "nome": "Erro Crítico (Bloqueio de Sistema)",
+    "urgencia": 0
+  },
+  {
+    "nome": "Problema de Desempenho / Lentidão",
+    "urgencia": 1
+  },
+  {
+    "nome": "Dúvidas de Uso ou Configuração",
+    "urgencia": 2
+  },
+  {
+    "nome": "Sugestão de Melhoria ou Nova Feature",
+    "urgencia": 3
+  }
+]

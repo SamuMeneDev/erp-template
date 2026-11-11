@@ -1,0 +1,42 @@
+[
+  {
+    "nome": "Kit Padrão Essential",
+    "codigo": "PRD-001",
+    "quantAtual": 15,
+    "quantMinima": 5,
+    "categoriaId": 1,
+    "markup": 2.8
+  },
+  {
+    "nome": "Conjunto Modular Plus",
+    "codigo": "PRD-002",
+    "quantAtual": 3,
+    "quantMinima": 5,
+    "categoriaId": 2,
+    "markup": 1
+  },
+  {
+    "nome": "Combo Corporativo Pro",
+    "codigo": null,
+    "quantAtual": 10,
+    "quantMinima": 4,
+    "categoriaId": 3,
+    "markup": 3
+  },
+  {
+    "nome": "Unidade Básica Standard",
+    "codigo": "PRD-004",
+    "quantAtual": 25,
+    "quantMinima": 10,
+    "categoriaId": null,
+    "markup": 1
+  },
+  {
+    "nome": "Edição Especial Custom",
+    "codigo": null,
+    "quantAtual": 2,
+    "quantMinima": 3,
+    "categoriaId": 1,
+    "markup": 1
+  }
+]

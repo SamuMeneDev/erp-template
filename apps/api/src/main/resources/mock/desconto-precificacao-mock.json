@@ -1,0 +1,8 @@
+[
+  {
+    "nome": "Margem de lucro",
+    "valor":  5,
+    "tipoValor":  "PORCENTAGEM",
+    "idPrecificacao": 1
+  }
+]
