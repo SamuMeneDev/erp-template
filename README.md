@@ -31,8 +31,8 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 1. Clone o repositório e acesse a pasta raiz:
    ```bash
-   git clone https://github.com
-   cd SEU_REPOSITORIO
+   git clone https://github.com/SamuMeneDev/erp-template.git
+   cd erp-template
    ```
 
 2. **Configurar Variáveis de ambiente:** Crie o arquivo `.env` a partir do modelo:
@@ -41,7 +41,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
    ```
    Preencha com as suas credenciais locais:
    ```env
-    H2_DBNAME=no
+    H2_DBNAME=
     H2_PASSWORD=
     H2_USERNAME=
 
